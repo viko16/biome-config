@@ -1,0 +1,30 @@
+{
+  "name": "@viko16/biome-config",
+  "version": "1.0.0",
+  "description": "A comprehensive Biome configuration package for JavaScript & TypeScript projects, with support for React.",
+  "main": "biome.json",
+  "exports": {
+    ".": "./biome.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viko16/biome-config.git"
+  },
+  "keywords": [
+    "biome",
+    "biomejs",
+    "typescript"
+  ],
+  "author": {
+    "name": "viko16",
+    "email": "16viko@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viko16/biome-config/issues"
+  },
+  "homepage": "https://github.com/viko16/biome-config#readme",
+  "peerDependencies": {
+    "@biomejs/biome": "^2.2.0"
+  }
+}
